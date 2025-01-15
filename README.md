@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
