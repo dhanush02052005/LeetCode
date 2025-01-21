@@ -93,6 +93,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -114,4 +115,16 @@
 |  |
 | ------- |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
