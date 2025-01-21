@@ -94,6 +94,7 @@
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -127,4 +129,5 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
