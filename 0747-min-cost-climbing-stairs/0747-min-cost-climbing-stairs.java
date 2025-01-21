@@ -3,8 +3,13 @@ class Solution {
     {
         int s = cost.length;
         if(n>=s) return 0;
-        if(dp[n]!=-1) return dp[n];
-        else return dp[n] = cost[n] + Math.min(solve(n+1,cost,dp),solve(n+2,cost,dp));
+        dp[0] = cost[0];
+        dp[1] = cost[1];
+        for(int i=2;i<s;i++)
+        {
+            dp[i] = cost[i] + Math.min(dp[i-1] , dp[i-2]);
+        }
+        return Math.min(dp[s-1],dp[s-2]);
     }
     public int minCostClimbingStairs(int[] cost) {
         int[] dp = new int[cost.length];
