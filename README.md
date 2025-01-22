@@ -105,6 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanush02052005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/dhanush02052005/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
+| [0516-longest-palindromic-subsequence](https://github.com/dhanush02052005/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/dhanush02052005/LeetCode/tree/master/2226-rings-and-rods) |
@@ -126,6 +127,7 @@
 | [0062-unique-paths](https://github.com/dhanush02052005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/dhanush02052005/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1236-n-th-tribonacci-number) |
