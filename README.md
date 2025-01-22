@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanush02052005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/dhanush02052005/LeetCode/tree/master/2226-rings-and-rods) |
 ## Tree
@@ -107,11 +108,13 @@
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhanush02052005/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/dhanush02052005/LeetCode/tree/master/2226-rings-and-rods) |
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Sliding Window
 |  |
