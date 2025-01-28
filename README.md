@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0135-candy](https://github.com/dhanush02052005/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,5 +159,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/dhanush02052005/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
