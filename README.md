@@ -49,6 +49,7 @@
 | [0404-sum-of-left-leaves](https://github.com/dhanush02052005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0226-invert-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhanush02052005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,4 +166,12 @@
 | ------- |
 | [0135-candy](https://github.com/dhanush02052005/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
