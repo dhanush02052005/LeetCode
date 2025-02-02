@@ -16,6 +16,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0200-number-of-islands](https://github.com/dhanush02052005/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 | [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
