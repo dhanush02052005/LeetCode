@@ -13,6 +13,7 @@
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0063-unique-paths-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/dhanush02052005/LeetCode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +181,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/dhanush02052005/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
