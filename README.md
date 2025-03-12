@@ -135,6 +135,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanush02052005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/dhanush02052005/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/dhanush02052005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhanush02052005/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -210,4 +211,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/dhanush02052005/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhanush02052005/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
