@@ -222,4 +222,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0040-combination-sum-ii) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/dhanush02052005/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
