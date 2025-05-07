@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/dhanush02052005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dhanush02052005/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +174,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dhanush02052005/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
