@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -231,4 +232,8 @@
 | ------- |
 | [0577-employee-bonus](https://github.com/dhanush02052005/LeetCode/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/dhanush02052005/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
