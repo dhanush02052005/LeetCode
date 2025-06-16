@@ -15,6 +15,7 @@
 | [0200-number-of-islands](https://github.com/dhanush02052005/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/dhanush02052005/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/dhanush02052005/LeetCode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -239,8 +240,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanush02052005/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
