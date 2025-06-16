@@ -1,12 +1,10 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        HashMap<Integer,Integer> res = new HashMap<>();
         for(int i=0;i<nums.length;i++)
         {
-            if(!res.containsKey(nums[i])){
-                res.put(nums[i],1);
-            }
-            else return nums[i];
+            int val = Math.abs(nums[i]);
+            if(nums[val] < 0) return val;
+            else nums[val]*=-1;
         }
         return -1;
     }
