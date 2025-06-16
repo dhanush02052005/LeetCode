@@ -23,6 +23,7 @@
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -119,6 +120,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -208,6 +211,7 @@
 | ------- |
 | [0135-candy](https://github.com/dhanush02052005/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Union Find
 |  |
 | ------- |
@@ -252,4 +256,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
