@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dhanush02052005/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhanush02052005/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dhanush02052005/LeetCode/tree/master/0031-next-permutation) |
@@ -119,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhanush02052005/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhanush02052005/LeetCode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -247,6 +249,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhanush02052005/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhanush02052005/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dhanush02052005/LeetCode/tree/master/0031-next-permutation) |
