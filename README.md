@@ -24,6 +24,7 @@
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/dhanush02052005/LeetCode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/dhanush02052005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanush02052005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/dhanush02052005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
