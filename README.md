@@ -26,6 +26,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanush02052005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/dhanush02052005/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/dhanush02052005/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -273,4 +274,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/dhanush02052005/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
