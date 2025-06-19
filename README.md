@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/dhanush02052005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/dhanush02052005/LeetCode/tree/master/0130-surrounded-regions) |
@@ -121,6 +122,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhanush02052005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -181,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhanush02052005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dhanush02052005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhanush02052005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhanush02052005/LeetCode/tree/master/0064-minimum-path-sum) |
