@@ -146,6 +146,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/dhanush02052005/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dhanush02052005/LeetCode/tree/master/0062-unique-paths) |
@@ -201,6 +202,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dhanush02052005/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/dhanush02052005/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -298,6 +300,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhanush02052005/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/dhanush02052005/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
