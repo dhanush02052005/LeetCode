@@ -179,6 +179,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Dynamic Programming
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhanush02052005/LeetCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/dhanush02052005/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -265,6 +267,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dhanush02052005/LeetCode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -286,4 +289,8 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush02052005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhanush02052005/LeetCode/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
