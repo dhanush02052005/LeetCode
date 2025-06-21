@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/dhanush02052005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/dhanush02052005/LeetCode/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush02052005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanush02052005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -44,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhanush02052005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/dhanush02052005/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush02052005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/dhanush02052005/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Dynamic Programming
@@ -291,6 +294,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Prefix Sum
 |  |
