@@ -67,6 +67,7 @@
 | [0404-sum-of-left-leaves](https://github.com/dhanush02052005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -107,6 +109,7 @@
 | [0404-sum-of-left-leaves](https://github.com/dhanush02052005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
