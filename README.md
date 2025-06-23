@@ -47,6 +47,7 @@
 | [0205-isomorphic-strings](https://github.com/dhanush02052005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush02052005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/dhanush02052005/LeetCode/tree/master/2226-rings-and-rods) |
@@ -67,6 +68,7 @@
 | [0404-sum-of-left-leaves](https://github.com/dhanush02052005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -89,6 +91,7 @@
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -109,6 +112,7 @@
 | [0404-sum-of-left-leaves](https://github.com/dhanush02052005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhanush02052005/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -130,6 +134,7 @@
 | [0695-max-area-of-island](https://github.com/dhanush02052005/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dhanush02052005/LeetCode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/dhanush02052005/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dhanush02052005/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dhanush02052005/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
