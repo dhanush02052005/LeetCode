@@ -1,18 +1,17 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        List<Integer> curr = new ArrayList<>();
-        recursion(res,curr ,nums);
+        //List<Integer> curr = 
+        //Arrays.sort(nums);
+        recursion(res,new ArrayList<>(),nums , 0);
         return res;
     }
-    public void recursion(List<List<Integer>> res ,List<Integer>curr, int[] nums){
-        if(nums.length == 0){
-            res.add(new ArrayList<>(curr));
-            return;
+    public void recursion(List<List<Integer>> res ,List<Integer>curr, int[] nums , int start){
+        res.add(new ArrayList <> (curr));
+        for(int i = start;i < nums.length;i++){
+            curr.add(nums[i]);
+            recursion(res,curr,nums,i+1);
+            curr.remove(curr.size() - 1);
         }
-        List<Integer> contains = new ArrayList<>(curr);
-        contains.add(nums[0]);
-        recursion(res,contains,Arrays.copyOfRange(nums, 1, nums.length));
-        recursion(res,curr,Arrays.copyOfRange(nums, 1, nums.length));
     }
 }
