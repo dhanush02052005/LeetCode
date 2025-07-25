@@ -51,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/dhanush02052005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhanush02052005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/dhanush02052005/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush02052005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -193,6 +194,7 @@
 | [0014-longest-common-prefix](https://github.com/dhanush02052005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhanush02052005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/dhanush02052005/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhanush02052005/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -201,6 +203,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Sliding Window
@@ -351,4 +354,8 @@
 | [0143-reorder-list](https://github.com/dhanush02052005/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/dhanush02052005/LeetCode/tree/master/0328-odd-even-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
