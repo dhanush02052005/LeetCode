@@ -56,6 +56,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhanush02052005/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/dhanush02052005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dhanush02052005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/dhanush02052005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush02052005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhanush02052005/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -172,12 +173,14 @@
 | [0088-merge-sorted-array](https://github.com/dhanush02052005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/dhanush02052005/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/dhanush02052005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanush02052005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dhanush02052005/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush02052005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/dhanush02052005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dhanush02052005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dhanush02052005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhanush02052005/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/dhanush02052005/LeetCode/tree/master/0886-score-of-parentheses) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/dhanush02052005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dhanush02052005/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/dhanush02052005/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Sliding Window
@@ -375,4 +380,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanush02052005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/dhanush02052005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
